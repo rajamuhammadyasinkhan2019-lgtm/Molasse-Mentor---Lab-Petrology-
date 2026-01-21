@@ -1,0 +1,7 @@
+{
+  "name": "Molasse Mentor – LAB & PETROLOGY AI",
+  "description": "An advanced scientific tool for sedimentological analysis, provenance plotting, and geochemical interpretation of orogenic sediments using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
